@@ -77,4 +77,11 @@ int main() {
         total_detik--;
     }
 
-   
+    cout << "\n\n==================================\n";
+    cout << "          WAKTU HABIS!            \n";
+    cout << " Komputer akan dikunci otomatis.  \n";
+    cout << "==================================\n";
+
+    return 0;
+}
+
