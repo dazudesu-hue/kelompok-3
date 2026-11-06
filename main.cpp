@@ -35,7 +35,7 @@ int main() {
             harga = 30000;
             break;
         default:
-            cout << "Pilihan tidak valid! Program berhenti.\n";
+            cout << "Pilihan tidak valid! Program dihentikan.\n";
             return 0;
     }
 
